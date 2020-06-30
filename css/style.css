@@ -56,3 +56,22 @@ h3 {
   left: 300px;
   bottom: 300px;
 }
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto;
+  line-height: 2;
+}
+
+.skills-image1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-image2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
